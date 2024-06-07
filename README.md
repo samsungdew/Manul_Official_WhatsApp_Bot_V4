@@ -1,6 +1,6 @@
  
 
-<h1 align="center">ꪶ𝗠𝗮𝗻𝘂𝗹 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗕𝗼𝘁 𝗩4ꫂ<br></h1>
+<h1 align="center">ꪶ✨𝗠𝗮𝗻𝘂𝗹 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 𝗕𝗼𝘁 𝗩4❤️ꫂ<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/3aa94fc9ee3c546ca75ff.jpg" />
 </p>
@@ -13,9 +13,9 @@ Manul Official Bot Multi Device is a automated whatsapp bot created by <a href="
 <a href="https://youtu.be/26oGhD0hjM4?si=9jvgzTQSOWottbSU"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 
-------
+____________________________________
 
-# ```Bot Info```
+# ```✨Bot Info❤️```
 <p align="center">
 <a href="https://github.com/manulofficial7/followers"><img title="Followers" src="https://img.shields.io/github/followers/manulofficial7?color=red&style=flat-square"></a>
 <a href="https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/manulofficial7/Manul_Official_WhatsApp_Bot_V4?color=blue&style=flat-square"></a>
@@ -29,28 +29,41 @@ Manul Official Bot Multi Device is a automated whatsapp bot created by <a href="
 <p align='center'>
     </p>
 
--------
+____________________________________
 
-### GET SESSION VIA PAIR CODE
+ ***✨GET SESSION VIA PAIR CODE❤️***
+ ____________________________________
 <a href='https://replit.com/@manulofficial7/Manul-Official-Whatsapp-Bot-Pair-Code#main.sh' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Click here to get your credit js-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
------
+____________________________________
 
-#### DEPLOY TO HEROKU 
+#### ✨HEROKU DEPLOY TUTORIAL VIDEO❤️
+
+***✨Tap On Logo❤️***
+
+<p align="left">
+<a href="https://youtu.be/SOJdOggBirg?si=L2d3KZhSHRCqHKUq"><img align="center" src="https://telegra.ph/file/56ec4a15988ebd4a391e6.jpg" alt="DEPLOY" height="110" width="200" /></a>
+
+____________________________________
+
+#### ✨DEPLOY TO HEROKU❤️ 
 
 . If You don't have a account in Heroku. Create a account.
     <br>
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-------
+____________________________________
 
-## Deploy Heroku 
+## ✨Deploy to Heroku❤️ 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4)
 
-____________________
+____________________________________
 
-# Install Manually 👇
+# ✨Install Manually 👇
+
+____________________________________
+
 ## `Requirements`
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
@@ -58,7 +71,7 @@ ____________________
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Any text editor
 
---------
+____________________________________
 
 
 ## `For Termux/Ssh/Ubuntu`
@@ -77,7 +90,10 @@ git clone https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4
 yarn install
 npm start
 ```
------
+
+____________________________________
+
+
 ## `For VPS`
 ```bash
 apt install nodejs 
@@ -90,19 +106,23 @@ git clone https://github.com/manulofficial7/Manul_Official_WhatsApp_Bot_V4
 cd Manul_Official_WhatsApp_Bot_V4
 npm start
 ```
------
-## ```Connect With Me```
+
+___________________________________
+
+
+## ```✨Connect With Me❤️```
 <p align="center">
-<a href="https://youtube.com/@manulofficial"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@manulofficial" /><br>
-<a href="https://whatsapp.com/channel/0029VaN1XMn2ZjCsu9eZQP3R"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaN1XMn2ZjCsu9eZQP3R" /><br>
+<a href="https://youtube.com/@ManulOfficialTech"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@manulofficial" /><br>
+<a href="https://wa.me/94742274855"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/94742274855" /><br>
 <a href="https://t.me/manulofficial"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 <a href="https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.instagram.com/unicorn_?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
-------
+____________________________________
 
-***Tap On Logo To Contat Me***
+
+***✨Tap On Logo To Contat Me❤️***
 
 
  <p align="left">
@@ -111,7 +131,8 @@ npm start
   <a href="https://wa.me/94742274855?text=Hi+Manul+Official+Sir...+I+need+some+help+in+Manul_Official_WhatsApp_Bot"><img title="Author" src="https://img.shields.io/badge/WHATSAPP-ME-red?style=for-the-badge&logo=WhatsApp"></a>
 
   
-  -----
+  ____________________________________
+  
   
    ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
@@ -127,10 +148,10 @@ npm start
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 4.0        |
 
 
-------
+____________________________________
 
 
-## `Main Creator` 
+## `✨Main Creator❤️` 
 <a href="https://github.com/manulofficial7"><img src="https://graph.org/file/ad59b4019b737105516fe.jpg" width="250" height="250" alt="manulofficial7"/></a>
   
 `MANUL-OFFICIAL-BOT - By ©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️`
@@ -149,4 +170,4 @@ npm start
 - I am not responsible for banning your account.
 - Use at your own risk by keeping this warning in mind.
 
----
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
