@@ -10,7 +10,7 @@ Manul Official Bot Multi Device is a automated whatsapp bot created by <a href="
 </p>
 
 <p align="center">
-<a href="https://youtu.be/26oGhD0hjM4?si=9jvgzTQSOWottbSU"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
+<a href="https://youtu.be/SOJdOggBirg?si=JiGKC2E0HmjaLlZz?si=9jvgzTQSOWottbSU"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 
 ____________________________________
@@ -152,7 +152,7 @@ ____________________________________
 
 
 ## `✨Main Creator❤️` 
-<a href="https://github.com/manulofficial7"><img src="https://graph.org/file/ad59b4019b737105516fe.jpg" width="250" height="250" alt="manulofficial7"/></a>
+<a href="https://github.com/manulofficial7"><img src="https://telegra.ph/file/e8418b02b2612c0d26cef.jpg" width="250" height="250" alt="manulofficial7"/></a>
   
 `MANUL-OFFICIAL-BOT - By ©ʍɾ ℂ𝕪𝕓𝕖𝕣 ʍɑղմӀ օƒƒíϲíɑӀ♠️`
 
